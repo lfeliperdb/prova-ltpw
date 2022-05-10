@@ -41,7 +41,7 @@ function calcpedido() {
         valorbtt = 7.90;
     }
 
-
+    //calculo
     total = (valorsd*qs) + (valorbb*qb) + (valorbtt*qbt);
 
     //saida
